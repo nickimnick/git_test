@@ -1,5 +1,6 @@
 <?php
 
+//COMMENT
 $slugStr = $_GET['slug'];
 
 echo 'URL -> '.$slugStr.'<br />';
